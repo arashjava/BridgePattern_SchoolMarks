@@ -17,7 +17,7 @@ public class Java extends ACourse{
 
     @Override
     public void showResults() {
-        System.out.print("Java ");
+        System.out.println("Java -");
         exam1.showResult();
         exam2.showResult();
         exam3.showResult();

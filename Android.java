@@ -17,7 +17,7 @@ public class Android extends ACourse{
 
     @Override
     public void showResults() {
-        System.out.print("Android ");
+        System.out.println("Android -");
         exam1.showResult();
         exam2.showResult();
         exam3.showResult();

@@ -18,7 +18,7 @@ public class FrontEnd extends ACourse{
 
     @Override
     public void showResults() {
-        System.out.print("FrontEnd ");
+        System.out.println("FrontEnd -");
         exam1.showResult();
         exam2.showResult();
         exam3.showResult();
